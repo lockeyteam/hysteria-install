@@ -1,5 +1,5 @@
 # hysteria-install
 
 ```
-curl -L https://raw.githubusercontent.com/lockeyteam/hysteria-install/main/hysteria.sh -O hysteria.sh && bash hysteria.sh
+curl -Ls https://raw.githubusercontent.com/lockeyteam/hysteria-install/main/hysteria.sh -o hysteria-install.sh && bash hysteria-install.sh
 ```
